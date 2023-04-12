@@ -8,7 +8,7 @@ This repository is the official repository for our paper "Generating Adversarial
 
 
 
-## Running Commands for 2-D Pattern
+## Running Commands
 
 You can run the following command to perform the MUP-MIM attack method, using an Inception-v3 model as a surrogate model.
 
