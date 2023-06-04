@@ -1,4 +1,4 @@
-## CNN-Cap
+## MUP-Attack
 
 This repository is the official repository for our paper "Generating Adversarial Examples with Better Transferability via Masking Unimportant Parameters of Surrogate Model". This repository provides codes for performing MUP-based adversarial attack methods.
 
@@ -13,7 +13,7 @@ This repository is the official repository for our paper "Generating Adversarial
 You can run the following command to perform the MUP-MIM attack method, using an Inception-v3 model as a surrogate model.
 
 ```
-python attack.py -a inceptionv3 --attack_method MIFGSM --pruning_mode dynamic
+python attack.py -a inceptionv3 --attack_method MIFGSM --pruning_mode dynamic --p 0.15
 ```
 
 Please refer to `attack.py` for more details.
