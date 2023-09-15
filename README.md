@@ -24,10 +24,13 @@ If you benefit from our work in your research, please consider to cite the follo
 
 ```
 @inproceedings{yang2023generating,
-  title={Generating Adversarial Examples with Better Transferability via Masking Unimportant Parameters of Surrogate Model},
-  author={Yang, Dingcheng and Yu, Wenjian and Xiao, Zihao and Luo, Jiaqi},                                              
-  booktitle={2023 International Joint Conference on Neural Networks (IJCNN)},
+  author={Yang, Dingcheng and Yu, Wenjian and Xiao, Zihao and Luo, Jiaqi},
+  booktitle={2023 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Generating Adversarial Examples with Better Transferability via Masking Unimportant Parameters of Surrogate Model}, 
   year={2023},
-  organization={IEEE}         
+  volume={},
+  number={},
+  pages={01-08},
+  doi={10.1109/IJCNN54540.2023.10191679}      
 }
 ```
